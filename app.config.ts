@@ -1,6 +1,6 @@
 export default defineAppConfig({
-  title: 'Sink',
-  email: 'sink.cool@miantiao.me',
+  title: 'Link',
+  email: 'info@macplanet.vn',
   github: 'https://github.com/ccbikai/sink',
   twitter: 'https://sink.cool/kai',
   telegram: 'https://sink.cool/telegram',
