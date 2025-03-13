@@ -1,11 +1,11 @@
 export default defineAppConfig({
   title: 'Link',
   email: 'info@macplanet.vn',
-  github: 'https://github.com/ccbikai/sink',
-  twitter: 'https://sink.cool/kai',
-  telegram: 'https://sink.cool/telegram',
-  mastodon: 'https://sink.cool/mastodon',
-  blog: 'https://sink.cool/blog',
+  github: '#',
+  twitter: '#',
+  telegram: '#',
+  mastodon: '#',
+  blog: '#',
   description: 'Rút gọn Link cho Macplanet.',
   image: 'https://sink.cool/banner.png',
   previewTTL: 300, // 5 minutes
