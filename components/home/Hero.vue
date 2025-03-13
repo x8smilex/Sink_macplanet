@@ -42,7 +42,7 @@ const { title, description, github } = useAppConfig()
           <AreaChart
             class="w-5 h-5"
           />
-          Dashboard
+          Macplanet.
         </HomeLink>
       </div>
     </div>
