@@ -22,7 +22,7 @@ const { title, description, github } = useAppConfig()
       <div class="flex flex-col gap-3 mt-6 sm:flex-row">
         <HomeLink
           href="/dashboard"
-          target="_blank"
+          target="_self"
           title="Dashboard"
           class="flex items-center justify-center gap-1"
           rel="noopener"
